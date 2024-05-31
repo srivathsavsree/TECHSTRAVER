@@ -1,0 +1,14 @@
+{
+  "name": "tech-straver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "starter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sree",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
