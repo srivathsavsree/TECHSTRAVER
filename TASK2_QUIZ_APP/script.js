@@ -8,23 +8,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const questions = [
         {
-            question: "What is the capital of France?",
-            choices: ["Berlin", "Madrid", "Paris", "Lisbon"],
-            correctAnswer: 2
-        },
-        {
-            question: "Which language runs in a web browser?",
-            choices: ["Java", "C", "Python", "JavaScript"],
-            correctAnswer: 3
-        },
-        {
-            question: "What does CSS stand for?",
-            choices: ["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "Cars SUVs Sailboats"],
+            question: "What year was the first iPhone released?",
+            choices: ["2005", "2007", "2009", "2010"],
             correctAnswer: 1
         },
         {
-            question: "What year was JavaScript launched?",
-            choices: ["1996", "1995", "1994", "none of the above"],
+            question: "Who is the current CEO of Apple?",
+            choices: ["Steve Jobs", "Tim Cook", "Elon Musk", "Jeff Bezos"],
+            correctAnswer: 1
+        },
+        {
+            question: "Which of these is not an Apple product?",
+            choices: ["iPad", "MacBook", "Galaxy S", "Apple Watch"],
+            correctAnswer: 2
+        },
+        {
+            question: "What is the primary programming language used for iOS development?",
+            choices: ["Python", "Java", "Swift", "Kotlin"],
+            correctAnswer: 2
+        },
+        {
+            question: "What is Apple's virtual assistant called?",
+            choices: ["Alexa", "Siri", "Cortana", "Google Assistant"],
             correctAnswer: 1
         }
     ];
